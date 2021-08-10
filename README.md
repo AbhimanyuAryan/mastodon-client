@@ -1,5 +1,7 @@
 # A Twitter UI like Mastodon client. I'm not a big fan of Mastodon's UI 
 
+![product image](assets/app_img.png)
+
 # Vue App (mastodon-client)
 
 VueJS App
